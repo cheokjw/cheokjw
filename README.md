@@ -11,10 +11,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-
 - 📫 How to reach me **cheok1121@gmail.com**
 
-- ⚡ Fun fact **I play Valorant :D**
 
 ## 🚀 Languages and Tools:
 
