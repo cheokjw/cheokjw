@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-[![JW's github activity graph](https://activity-graph.herokuapp.com/graph?username=cheokjw&custom_title=JW's Contribution Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JW's github activity graph](https://activity-graph.herokuapp.com/graph?username=cheokjw&custom_title=JW'sContributionGraph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
