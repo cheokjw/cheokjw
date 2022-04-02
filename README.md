@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/cheokjw/github-readme-activity-graph"><img alt="JW's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cheokjw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![JW's github activity graph](https://activity-graph.herokuapp.com/graph?username=cheokjw&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
