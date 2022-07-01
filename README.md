@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Scikit-learn**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
