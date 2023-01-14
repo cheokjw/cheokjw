@@ -37,20 +37,21 @@
 </p>
 
 ## 📊 My Github Stats
+<br/>
+<picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=cheokjw&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=cheokjw&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=cheokjw&show_icons=true" />
+</picture>
 
-  <br/>
-    <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=cheokjw&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=cheokjw&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=cheokjw&show_icons=true" />
-    </picture>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheokjw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
@@ -70,7 +71,4 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/cheokjw?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
