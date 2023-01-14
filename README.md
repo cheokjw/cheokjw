@@ -50,8 +50,6 @@
         />
         <img src="https://github-readme-stats.vercel.app/api?username=cheokjw&show_icons=true" />
     </picture>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonjuniorpro)](https://github.com/anuraghazra/github-readme-stats)
-   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -72,4 +70,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/cheokjw?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
