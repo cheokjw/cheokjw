@@ -59,15 +59,3 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/cheok-jia-wei-445a29201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/jiaaaaaweiiiiiiii/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/cheokjw?label=Followers&style=social" alt="GitHub Badge"></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheokjw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
