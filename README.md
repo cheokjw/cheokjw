@@ -39,8 +39,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    ![JW's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheokjw)](https://github.com/anuraghazra/github-readme-stats)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheokjw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
