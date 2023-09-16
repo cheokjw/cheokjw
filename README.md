@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **FinTech**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
